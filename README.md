@@ -1,7 +1,7 @@
 # EXNO2DS
 # DATE: 15-10-2025
 # NAME : NAVEENKUMAR V
-# REG NO:25016071
+# REG NO: 25016071
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
